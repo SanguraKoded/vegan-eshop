@@ -1,0 +1,40 @@
+    /* Style for the form */
+    form {
+        border: 2px solid #ccc; /* Border style */
+        padding: 20px; /* Padding inside the form */
+        max-width: 400px; /* Maximum width of the form */
+        margin: 0 auto; /* Center the form horizontally */
+    }
+
+    /* Style for labels */
+    label {
+        font-weight: bold; /* Make labels bold */
+    }
+
+    /* Style for input fields */
+    input[type="text"],
+    textarea,
+    input[type="file"] {
+        width: 100%; /* Make input fields full width */
+        padding: 10px; /* Padding inside input fields */
+        margin-bottom: 10px; /* Spacing between input fields */
+        box-sizing: border-box; /* Include padding and border in the element's total width and height */
+        border: 1px solid #ccc; /* Add border */
+        border-radius: 5px; /* Add border radius */
+    }
+
+    /* Style for submit button */
+    button[type="submit"] {
+        background-color: #4CAF50; /* Green background color */
+        color: white; /* White text color */
+        border: none; /* Remove border */
+        cursor: pointer; /* Add pointer cursor on hover */
+        padding: 10px; /* Padding */
+        border-radius: 5px; /* Add border radius */
+    }
+
+    /* Hover effect for submit button */
+    button[type="submit"]:hover {
+        background-color: #45a049; /* Darker green on hover */
+    }
+
