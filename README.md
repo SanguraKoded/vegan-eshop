@@ -1,4 +1,4 @@
-# vegicart
+# Online Vegan Shop
 Open-source vegan shop revolutionizing cruelty-free shopping. Ethical products, community-driven, and inclusive. 
 VegiCart: Revolutionizing Vegan Shopping
 Features:
